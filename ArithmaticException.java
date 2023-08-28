@@ -20,8 +20,9 @@ public static void main(String[]args) {
 		System.out.println("Exception handling");
 	}
 	System.out.println("Rest of the code");
-		
+		System.out.println("hello");
 	
 	}
+
 }
 
